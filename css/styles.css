@@ -1,0 +1,22 @@
+h2.intro {
+  color: blue;
+  font-weight: bold;
+}
+
+p.intro {
+  font-family: sans-serif;
+}
+
+img.intro {
+  height: 200px;
+}
+
+.important {
+  color: red;
+  font-style: italic;
+}
+
+.highlight {
+  color: #e5ca42;
+  font-style: italic;
+}
